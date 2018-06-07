@@ -1,0 +1,7 @@
+DEV NOTES:
+wed-6-june
+-the list version of the solver works better than np version
+-in the np version, the try catch statement drives the oscillon profile back instead
+of the front, this is wiered as I have tried the same technique in a test problem,
+and the alg is right there. This may also be due to the np implimentation.
+-optimum results in osc.py
